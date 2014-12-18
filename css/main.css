@@ -18,6 +18,14 @@ body {
 	color:#1650A7
 }
 
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background:white;
+}
+
 .left {
 	float: left;
 	width:60%;
